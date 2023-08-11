@@ -12791,6 +12791,17 @@ div#featured-project-carousel {
 /*---------------------------
     Portfolio Area Styles 
 -----------------------------*/
+
+/* new style area */
+.technology-used-style {
+  margin-left: 20px;
+  list-style: none; 
+  }
+
+.img-technology-used {
+  max-width: 30px;
+}
+
 .rn-portfolio,
 .rn-blog {
   text-align: left;
